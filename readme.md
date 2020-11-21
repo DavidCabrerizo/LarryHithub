@@ -2,5 +2,5 @@
 
 Esta saga de libros cuentan la historia de un *hacker* excepcional.
 
-**David Cabrerizo**
+**David Cabrerizo**, Git fan.
 visualproductor@gmail.com
